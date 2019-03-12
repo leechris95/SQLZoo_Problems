@@ -1,0 +1,1 @@
+Test to see if working tree is compared with staging area when using git diff --staged
